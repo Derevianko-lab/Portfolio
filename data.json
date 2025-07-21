@@ -1,0 +1,62 @@
+[
+    {
+        "id": "101",
+        "name": "Анна Коваленко",
+        "adress": {
+            "city": "Київ",
+            "street": "Шевченка",
+            "house": "5",
+            "apartment": "15"
+        },
+        "contacts": {
+            "phone": "+380981234567",
+            "email": "ann.kovalenko@example.com",
+            "telegram": "@anna_k"
+        }
+    },
+    {
+        "id": "102",
+        "name": "Олена Сидорова",
+        "adress": {
+            "city": "Харків",
+            "street": "Сумська",
+            "house": "30",
+            "apartment": "8"
+        },
+        "contacts": {
+            "phone": "+380505554433",
+            "email": "olena.sydorova@example.com",
+            "telegram": "@olena_s"
+        }
+    },
+    {
+        "id": "103",
+        "name": "Софія Лисенко",
+        "adress": {
+            "city": "Полтава",
+            "street": "Пушкіна",
+            "house": "7",
+            "apartment": "1"
+        },
+        "contacts": {
+            "phone": "+380998887766",
+            "email": "sofia.lysenko@example.com",
+            "telegram": "@sofia_lysenko"
+        }
+    },
+    {
+        "id": "104",
+        "name": "Денис Петренко",
+        "adress": {
+            "city": "Дніпро",
+            "street": "Лесі Українки",
+            "house": "8",
+            "apartment": "42"
+        },
+        "contacts": {
+            "phone": "+380671122334",
+            "email": "denys.petrenko@example.com",
+            "telegram": "@den_petrenko"
+        }
+    }
+]
